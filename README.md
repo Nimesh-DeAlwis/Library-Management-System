@@ -1,4 +1,4 @@
-Perfect 👍 a **good README.md** explains how to install, run, and build your project. Since you’re using **Vite + React + TypeScript**, here’s a ready-to-use template you can copy into your `README.md`:
+
 
 ---
 
@@ -97,7 +97,7 @@ public/           # Static assets
 
 ## 👨‍💻 Author
 
-* Your Name
+* Nimesh De Alwis
 
 ---
 
